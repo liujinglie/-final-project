@@ -1,1 +1,6 @@
-
+airline,origin,destination,stops,departure_date,price
+AA,JFK,LAX,0,2022-06-01,320
+AA,JFK,LAX,1,2022-06-02,280
+DL,SFO,ORD,0,2022-07-10,350
+UA,LAX,SEA,0,2022-08-05,180
+UA,LAX,SEA,1,2022-08-06,150
